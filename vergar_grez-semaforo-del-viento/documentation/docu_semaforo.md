@@ -1,4 +1,6 @@
 # Documentación "Semáforo del Viento"
+Obra reprogramada utilizando p5.js.
+31 de enero de 2018
 
 ![](https://github.com/guillemontecinos/recode/blob/master/vergar_grez-semaforo-del-viento/documentation/semaforo_del_viento_original.png)
 *Original, fuente:* [*Catálogo Exposición "LA REVOLUCIÓN DE LAS FORMAS
