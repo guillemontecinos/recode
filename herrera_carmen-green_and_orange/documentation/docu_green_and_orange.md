@@ -3,7 +3,7 @@
 *Obra: Green & Orange*<br>
 *Autor: Cármen Herrera*<br>
 *año: 1958*<br>
-*Original: 152.4x182.9 cm*<br>
+*Original: 152.4x182.9 cm, acrícilo sobre lienzo*<br>
 *Fuente: https://whitney.org/Exhibitions/CarmenHerrera#artworks-4*<br>
 
 
