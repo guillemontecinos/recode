@@ -1,4 +1,4 @@
-# Documentación "Semáforo del Viento"
+# Semáforo del Viento
 *Reprogramado utilizando p5.js, 31 de enero de 2018*<br>
 *Obra: Semáforo del Viento*<br>
 *Autor: Ramón Vergara Grez*<br>
