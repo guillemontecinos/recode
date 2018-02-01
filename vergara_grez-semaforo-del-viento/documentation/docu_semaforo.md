@@ -1,8 +1,8 @@
 # Documentación "Semáforo del Viento"
 *Reprogramado utilizando p5.js, 31 de enero de 2018*<br>
-Obra: Semáforo del Viento*<br>
-Autor: Ramón Vergara Grez*<br>
-Original: 160 x 110 cm, óleo sobre tela.*<br>
+*Obra: Semáforo del Viento*<br>
+*Autor: Ramón Vergara Grez*<br>
+*Original: 160 x 110 cm, óleo sobre tela.*<br>
 
 ![](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/semaforo_del_viento_original.png)
 *Original, fuente:* [*Catálogo Exposición "LA REVOLUCIÓN DE LAS FORMAS 
