@@ -7,8 +7,8 @@
 *Fuente: https://www.pinterest.cl/pin/5629568263867090/*<br>
 
 
-![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/NA_black_and_yellow_circles_original.jpg)
-*Original, fuente:* [*Pinterest"*](https://www.pinterest.cl/pin/5629568263867090/)
+![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/NA_black_and_yellow_circles_original.jpg)<br>
+*Original, fuente:* [*"Pinterest"*](https://www.pinterest.cl/pin/5629568263867090/)
 <br><br>
 ![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/NA_black_and_yellow_circles_recoded.png)
 *Recoded en p5.js*
