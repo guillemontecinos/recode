@@ -1,17 +1,17 @@
-# Green & Orange
-*Obra reprogramada utilizando p5.js, 1 de febrero de 2018*<br>
-*Obra: Green & Orange*<br>
+# Not Found - Black & Yellow Circles
+*Obra reprogramada utilizando p5.js, 2 de febrero de 2018*<br>
+*Obra: Not Found*<br>
 *Autor: Cármen Herrera*<br>
-*año: 1958*<br>
-*Original: 152.4x182.9 cm*<br>
-*Fuente: https://whitney.org/Exhibitions/CarmenHerrera#artworks-4*<br>
+*año: Not Found*<br>
+*Original: Not Found*<br>
+*Fuente: https://www.pinterest.cl/pin/5629568263867090/*<br>
 
 
-![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/green_and_orange_original.png)
-*Original, fuente:* [*Catálogo Exposición Museo Whitney"*](https://whitney.org/Exhibitions/CarmenHerrera#artworks-4)
+![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/NA_black_and_yellow_circles_original.jpg)
+*Original, fuente:* [*Pinterest"*](https://www.pinterest.cl/pin/5629568263867090/)
 <br><br>
-![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/green_and_orange_recoded.png)
+![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/NA_black_and_yellow_circles_recoded.png)
 *Recoded en p5.js*
 
 ## Metodología
-![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.jpg)
+![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/docu_NA_black_and_yellow_circles.jpg)
