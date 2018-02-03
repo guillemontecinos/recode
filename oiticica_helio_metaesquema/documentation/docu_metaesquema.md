@@ -1,10 +1,10 @@
-# Green & Orange
-*Obra reprogramada utilizando p5.js, 1 de febrero de 2018*<br>
-*Obra: Green & Orange*<br>
-*Autor: Cármen Herrera*<br>
+# Metaesquema
+*Obra reprogramada utilizando p5.js, 3 de febrero de 2018*<br>
+*Obra: Metaesquema*<br>
+*Autor: Hélio Oiticica*<br>
 *año: 1958*<br>
-*Original: 152.4x182.9 cm*<br>
-*Fuente: https://whitney.org/Exhibitions/CarmenHerrera#artworks-4*<br>
+*Original: 550 x 639 mm*<br>
+*Fuente: http://www.tate.org.uk/art/artworks/oiticica-metaesquema-t12419*<br>
 
 
 ![](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/metaesquema_original.png)
