@@ -7,11 +7,12 @@
 *Fuente: https://whitney.org/Exhibitions/CarmenHerrera#artworks-4*<br>
 
 
-![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/green_and_orange_original.png)
-*Original, fuente:* [*Catálogo Exposición Museo Whitney"*](https://whitney.org/Exhibitions/CarmenHerrera#artworks-4)
+![](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/metaesquema_original.png)
+*Original, fuente:* [*tate.org.uk"*](http://www.tate.org.uk/art/artworks/oiticica-metaesquema-t12419)
 <br><br>
-![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/green_and_orange_recoded.png)
-*Recoded en p5.js*
+![](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/metaesquema_reinterpret.png)
+*Reinterpreted and recoded en p5.js*
 
 ## Metodología
-![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.jpg)
+The algorithm was analized assuming 4 squares per row in a 4x4 matrix.
+randomSeed() was used for setting random rotations following the pattern defined by Oiticica.
