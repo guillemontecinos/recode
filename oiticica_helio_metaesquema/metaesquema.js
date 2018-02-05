@@ -41,7 +41,7 @@ function draw(){
       if (counter%2 != 0) {
         // rotate(random(-PI/20,PI/20));
         rotate(random(-PI/20,0));
-        rect(0,0,width*.8*alphaMain[i]*random(.94,.95),height*.8*alphaMain[j]*random(.94,.95));
+        rect(0,0,width*.8*alphaMain[i]*random(.94,.95),height*.8*alphaMain[j]*random(.95,1.05));
       }
       else {
         rect(0,0,width*.8*alphaMain[i],height*.8*alphaMain[j]);
