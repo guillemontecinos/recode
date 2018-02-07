@@ -8,7 +8,7 @@
 
 
 ![](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/morisawa_original.jpg)
-*Original, fuente:* [*Catálogo Exposición Museo Whitney"*](https://www.pinterest.cl/pin/33917803427367153/)
+*Original, fuente:* [*Pinterest*](https://www.pinterest.cl/pin/33917803427367153/)
 <br><br>
 ![](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/morisawa_coded.png)
 *ReCoded en p5.js*
