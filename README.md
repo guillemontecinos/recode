@@ -13,3 +13,6 @@ The recoded artwork was chosen in order to achieve the class topics.
 
 ## Helio Oiticica - Metaesquema
 [![](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/metaesquema_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/docu_metaesquema.md)
+
+## John Maeda - Janapese Poster: Morisawa
+[![](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/morisawa_coded.png)](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/docu_morisawa.md)
