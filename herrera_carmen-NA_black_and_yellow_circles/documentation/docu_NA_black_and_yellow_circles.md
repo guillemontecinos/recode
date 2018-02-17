@@ -1,4 +1,4 @@
-# Not Found - Black & Yellow Circles
+# Name Not Found - Black & Yellow Circles
 *Obra reprogramada utilizando p5.js, 2 de febrero de 2018*<br>
 *Obra: Not Found*<br>
 *Autor: Cármen Herrera*<br>
