@@ -5,5 +5,5 @@ The recoded artwork was chosen in order to achieve the class topics.
 ## Carmen Herrera - Green & Orange
 [![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/green_and_orange_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/docu_green_and_orange.md)
 
-## Sergio Vergara Grez - Semáforo del Viento
-![](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/semaforo_del_viento_recoded.png)
+## Ramón Vergara Grez - Semáforo del Viento
+[![](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/semaforo_del_viento_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/docu_semaforo.md)
