@@ -6,13 +6,13 @@ The recoded artwork was chosen in order to achieve the class topics.
 [![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange/documentation/green_and_orange_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-green_and_orange)
 
 ## Carmen Herrera - Name not Found
-[![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/NA_black_and_yellow_circles_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/docu_NA_black_and_yellow_circles.md)
+[![](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles/documentation/NA_black_and_yellow_circles_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/herrera_carmen-NA_black_and_yellow_circles)
 
 ## Ramón Vergara Grez - Semáforo del Viento
-[![](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/semaforo_del_viento_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/docu_semaforo.md)
+[![](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento/documentation/semaforo_del_viento_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/vergara_grez-semaforo-del-viento)
 
 ## Helio Oiticica - Metaesquema
-[![](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/metaesquema_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/docu_metaesquema.md)
+[![](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/metaesquema_recoded.png)](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema)
 
 ## John Maeda - Janapese Poster: Morisawa
-[![](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/morisawa_coded.png)](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/docu_morisawa.md)
+[![](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa/documentation/morisawa_coded.png)](https://github.com/guillemontecinos/recode/blob/master/maeda_john-morisawa)
