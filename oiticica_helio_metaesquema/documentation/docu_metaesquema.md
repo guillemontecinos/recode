@@ -19,3 +19,4 @@
 ## Metodología
 The algorithm was analized assuming 4 squares per row in a 4x4 matrix.
 randomSeed() was used for setting random rotations following the pattern defined by Oiticica.
+![](https://github.com/guillemontecinos/recode/blob/master/oiticica_helio_metaesquema/documentation/metaesquema_docu.jpg)
