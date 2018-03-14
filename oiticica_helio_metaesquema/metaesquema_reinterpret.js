@@ -21,8 +21,8 @@ function setup(){
 
 function draw(){
   randomSeed(100); //función semilla establece una lista de valores aleatorios
-  console.log("mouseX: " + mouseX); 
-  console.log("mouseY: " + mouseY);
+  console.log("Hue Back: " + map(94,0,width,0,1));
+  console.log("Sat Back: " + map(339,0,height,0,1));
   // background(map(mouseX,0,width,0,1), map(mouseY,0,height,0,1),1);
   background(map(94,0,width,0,1), map(339,0,height,0,1),map(618,0,height,0,1)); //pintamos el fondo con colores calculados a partir del mapeo de mouseX y mouse Y
   noStroke(); //retángulos sin borde
